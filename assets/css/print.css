@@ -1,0 +1,10 @@
+@media print {
+  body {
+    background-color: aquamarine;
+    color: black;
+  }
+  .media-parent h1 {
+    font-size: 24px;
+    color: black;
+  }
+}
