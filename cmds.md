@@ -5,7 +5,7 @@ git pull origin dev
 git checkout -b feat/PM-193-adding-new-header
 git status 
 git add .     OR  git add <file_name>
-
+git commit -m "feat/PM-193-adding-new-header  adding folder structure and header "
 
 
 
